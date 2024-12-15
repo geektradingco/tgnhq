@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reviews on Tabletop Gaming HQ</title>
+    <title>Tabletop Gaming HQ Reviews on Tabletop Gaming HQ</title>
     <link>http://localhost:1313/review/</link>
-    <description>Recent content in Reviews on Tabletop Gaming HQ</description>
+    <description>Recent content in Tabletop Gaming HQ Reviews on Tabletop Gaming HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/review/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
