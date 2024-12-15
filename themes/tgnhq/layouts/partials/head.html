@@ -1,5 +1,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
+{{ if isset .Params "description" }}
+<meta description="{{ .description }}">    
+{{ else }}
+<meta description= "Stay updated on tabletop gaming news with Tabletop Gaming HQ.">    
+{{ end }}
+<link rel="canonical" href="{{ .Permalink }}">
+<script async src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}

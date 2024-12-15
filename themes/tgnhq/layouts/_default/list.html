@@ -1,8 +1,10 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  <ol>
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
   {{ end }}
-{{ end }}
+  </ol>
+  <ins class="epn-placement" data-config-id="5ab828ae87376a081fab645f"></ins>
+  {{ end }}
