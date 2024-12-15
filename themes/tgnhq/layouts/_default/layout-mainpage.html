@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ $p := where site.Pages "Params.tags" "intersect" (slice "news") }}
+{{ range $p }}
+<a href="{{ .Permalink }}">{{ .Permalink }}</a>
+{{- end -}}
+
+
+<ins class="epn-placement" data-config-id="5ab828ae87376a081fab645f"></ins>
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}
