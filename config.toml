@@ -1,0 +1,4 @@
+baseURL = 'https://tabletopgaminghq.netlify.app/'
+languageCode = 'en-us'
+title = 'Tabletip Gaming HQ'
+theme = 'tgnhq'
