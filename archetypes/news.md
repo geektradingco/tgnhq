@@ -4,4 +4,5 @@ date = {{ .Date }}
 draft = false
 tags = ['review','corus belli']
 company =''
+layout = 'layout-news'
 +++

@@ -1,6 +1,7 @@
 +++
 title = 'All you need to know about Trench Crusade'
 draft = false
+summary = 'Our world where the very fabric of history has been torn apart by supernatural forces.'
 +++
 ### Introduction
 - Brief overview of the game
