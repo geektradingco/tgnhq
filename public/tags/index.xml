@@ -2,31 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tabletop Gaming HQ</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:44727/tags/</link>
     <description>Recent content in Tags on Tabletop Gaming HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Dec 2024 15:51:17 +1100</lastBuildDate>
+    <atom:link href="http://localhost:44727/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:44727/tags/blog/</link>
+      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corus Belli</title>
+      <link>http://localhost:44727/tags/corus-belli/</link>
+      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/corus-belli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games Workshop</title>
+      <link>http://localhost:44727/tags/games-workshop/</link>
+      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/games-workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:44727/tags/news/</link>
+      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>http://localhost:44727/tags/review/</link>
+      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anvil Workshop</title>
+      <link>http://localhost:44727/tags/anvil-workshop/</link>
+      <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/anvil-workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privateer Press</title>
+      <link>http://localhost:44727/tags/privateer-press/</link>
+      <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
+      <guid>http://localhost:44727/tags/privateer-press/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blue</title>
-      <link>http://localhost:1313/tags/blue/</link>
+      <link>http://localhost:44727/tags/blue/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/blue/</guid>
+      <guid>http://localhost:44727/tags/blue/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>http://localhost:1313/tags/green/</link>
+      <link>http://localhost:44727/tags/green/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/green/</guid>
+      <guid>http://localhost:44727/tags/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>http://localhost:1313/tags/red/</link>
+      <link>http://localhost:44727/tags/red/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/tags/red/</guid>
+      <guid>http://localhost:44727/tags/red/</guid>
       <description></description>
     </item>
   </channel>
