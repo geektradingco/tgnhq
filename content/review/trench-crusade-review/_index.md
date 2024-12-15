@@ -1,6 +1,6 @@
 +++
 title = 'All you need to know about Trench Crusade'
-draft = true
+draft = false
 +++
 ### Introduction
 - Brief overview of the game
