@@ -9,34 +9,6 @@
     <lastBuildDate>Sun, 15 Dec 2024 15:51:17 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>News05</title>
-      <link>http://localhost:1313/news/news05/</link>
-      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news05/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News06</title>
-      <link>http://localhost:1313/news/news06/</link>
-      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news06/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News07</title>
-      <link>http://localhost:1313/news/news07/</link>
-      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news07/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News08</title>
-      <link>http://localhost:1313/news/news08/</link>
-      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news08/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Newsington News09</title>
       <link>http://localhost:1313/news/news09/</link>
       <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
@@ -44,32 +16,11 @@
       <description></description>
     </item>
     <item>
-      <title>News02</title>
-      <link>http://localhost:1313/news/news02/</link>
-      <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news02/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News03</title>
-      <link>http://localhost:1313/news/news03/</link>
-      <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news03/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News04</title>
-      <link>http://localhost:1313/news/news04/</link>
-      <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news04/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News01</title>
-      <link>http://localhost:1313/news/news01/</link>
-      <pubDate>Sun, 15 Dec 2024 15:39:43 +1100</pubDate>
-      <guid>http://localhost:1313/news/news01/</guid>
-      <description></description>
+      <title>I&#39;m a WarPainter!</title>
+      <link>http://localhost:1313/blog/warpainter-submission-form/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/warpainter-submission-form/</guid>
+      <description> Loading… </description>
     </item>
     <item>
       <title>Post 3</title>
@@ -91,20 +42,6 @@
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
       <description>This is post 1</description>
-    </item>
-    <item>
-      <title>Blog01</title>
-      <link>http://localhost:1313/blog/blog01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog01/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Review01</title>
-      <link>http://localhost:1313/review/review01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/review/review01/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
