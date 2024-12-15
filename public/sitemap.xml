@@ -2,84 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:44727/tags/blog/</loc>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/corus-belli/</loc>
+    <loc>http://localhost:1313/tags/corus-belli/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/games-workshop/</loc>
+    <loc>http://localhost:1313/tags/games-workshop/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/news/</loc>
+    <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news05/</loc>
+    <loc>http://localhost:1313/news/news05/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news06/</loc>
+    <loc>http://localhost:1313/news/news06/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news07/</loc>
+    <loc>http://localhost:1313/news/news07/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news08/</loc>
+    <loc>http://localhost:1313/news/news08/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news09/</loc>
+    <loc>http://localhost:1313/news/news09/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/review/</loc>
+    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/anvil-workshop/</loc>
+    <loc>http://localhost:1313/tags/anvil-workshop/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news02/</loc>
+    <loc>http://localhost:1313/news/news02/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news03/</loc>
+    <loc>http://localhost:1313/news/news03/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news04/</loc>
+    <loc>http://localhost:1313/news/news04/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/privateer-press/</loc>
+    <loc>http://localhost:1313/tags/privateer-press/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/news/news01/</loc>
+    <loc>http://localhost:1313/news/news01/</loc>
     <lastmod>2024-12-15T15:39:43+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/blue/</loc>
+    <loc>http://localhost:1313/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/green/</loc>
+    <loc>http://localhost:1313/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/posts/post-3/</loc>
+    <loc>http://localhost:1313/posts/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/tags/red/</loc>
+    <loc>http://localhost:1313/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/posts/post-2/</loc>
+    <loc>http://localhost:1313/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/posts/post-1/</loc>
+    <loc>http://localhost:1313/posts/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:44727/categories/</loc>
+    <loc>http://localhost:1313/blog/blog01/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/review/review01/</loc>
+  </url><url>
+    <loc>http://localhost:1313/review/</loc>
   </url>
 </urlset>

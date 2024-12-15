@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green on Tabletop Gaming HQ</title>
-    <link>http://localhost:44727/tags/green/</link>
+    <link>http://localhost:1313/tags/green/</link>
     <description>Recent content in Green on Tabletop Gaming HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:44727/tags/green/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/green/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 3</title>
-      <link>http://localhost:44727/posts/post-3/</link>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:44727/posts/post-3/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
       <description>This is post 3</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://localhost:44727/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:44727/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>This is post 2</description>
     </item>
   </channel>

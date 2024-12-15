@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games Workshop on Tabletop Gaming HQ</title>
-    <link>http://localhost:44727/tags/games-workshop/</link>
+    <link>http://localhost:1313/tags/games-workshop/</link>
     <description>Recent content in Games Workshop on Tabletop Gaming HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Dec 2024 15:51:17 +1100</lastBuildDate>
-    <atom:link href="http://localhost:44727/tags/games-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/games-workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Newsington News09</title>
-      <link>http://localhost:44727/news/news09/</link>
+      <link>http://localhost:1313/news/news09/</link>
       <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:44727/news/news09/</guid>
+      <guid>http://localhost:1313/news/news09/</guid>
       <description></description>
     </item>
     <item>
       <title>News01</title>
-      <link>http://localhost:44727/news/news01/</link>
+      <link>http://localhost:1313/news/news01/</link>
       <pubDate>Sun, 15 Dec 2024 15:39:43 +1100</pubDate>
-      <guid>http://localhost:44727/news/news01/</guid>
+      <guid>http://localhost:1313/news/news01/</guid>
       <description></description>
     </item>
   </channel>
