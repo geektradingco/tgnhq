@@ -18,7 +18,7 @@ summary = 'Our world where the very fabric of history has been torn apart by sup
 - Movement, combat, and special abilities
 - Winning conditions
 
-### [Miniatures and Modelling](/reviews/trench-crusage-miniatures-modelling)
+### [Miniatures and Modelling](/reviews/trench-crusade-review/trench-crusage-miniatures-modelling)
 - Types of miniatures used in the game
 - Painting and customization tips
 - Resources for acquiring miniatures
