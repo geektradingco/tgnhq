@@ -9,4 +9,4 @@ We are mainting a huge list of **commission miniature painters** to help bring y
 Our passion for detail transforms your models into vivid masterpieces, bringing character and vibrancy to every figure. With WarPainter, the worlds you build are more immersive, the stories you tell more captivating, and your games more unforgettable. 
 ### Let us elevate your miniatures to new heights, one brushstroke at a time!
 
-If you're a WarPainter and want to get listed in our directory, please click [here](/submission-form/index.html)
+If you're a WarPainter and want to get listed in our directory, please click [here](warpainter/submission-form)
