@@ -6,7 +6,14 @@
     <description>Recent content in Welcome to Tabletop Gaming HQ on Tabletop Gaming HQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>Tabletop Gaming HQ privacy Policy.</description>
+    </item>
   </channel>
 </rss>
