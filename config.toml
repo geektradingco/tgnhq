@@ -4,3 +4,7 @@ title = 'Tabletop Gaming HQ'
 theme = 'tghq-03'
 [params]
     description = "Stay updated on tabletop gaming news with Tabletop Gaming HQ."
+[services]
+  [services.disqus]
+    shortname = 'warpainter'
+
