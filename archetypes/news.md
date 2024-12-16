@@ -1,5 +1,5 @@
 +++
-title = 'Newsington {{ replace .File.ContentBaseName "-" " " | title }}'
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = false
 tags = ['review','corus belli']

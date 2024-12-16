@@ -1,6 +1,6 @@
 baseURL = 'https://tabletopgaminghq.netlify.app/'
 languageCode = 'en-us'
 title = 'Tabletop Gaming HQ'
-theme = 'th2-0'
+theme = 'tghq-03'
 [params]
     description = "Stay updated on tabletop gaming news with Tabletop Gaming HQ."
