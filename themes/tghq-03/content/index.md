@@ -7,3 +7,4 @@ draft = false
 
 From the **latest news** and **game reviews** to in-depth strategy guides and community events, we’re here to **fuel your passion for gaming**. Whether you’re a dungeon master, a wargaming tactician, or a board game enthusiast, we provide the resources you need to **make every game night unforgettable**.
 
+- Check out our [Trench Crusade review](/reviews/trench-crusade-review/)
