@@ -1,51 +1,33 @@
-{{- /*
-Renders a menu for the given menu ID.
-
-@context {page} page The current page.
-@context {string} menuID The menu ID.
-
-@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-*/}}
-
-{{- $page := .page }}
-{{- $menuID := .menuID }}
-
-{{- with index site.Menus $menuID }}
-  <nav>
-    <ul>
-      {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/">{{ site.Title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="/news/"><span class="sr-only">News (current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/blog/">Blog</a>
+      </li>
+              <li class="nav-item">
+        <a class="nav-link" href="/reviews/">Reviews</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/warpainter/">The Warpainters</a>
+      </li>
+     <!-- <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Company
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="/tags/corus-belli/">Corvus Belli</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li> -->
     </ul>
-  </nav>
-{{- end }}
+  </div>
+</nav>
 
-{{- define "partials/inline/menu/walk.html" }}
-  {{- $page := .page }}
-  {{- range .menuEntries }}
-    {{- $attrs := dict "href" .URL }}
-    {{- if $page.IsMenuCurrent .Menu . }}
-      {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
-    {{- else if $page.HasMenuCurrent .Menu .}}
-      {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
-    {{- end }}
-    {{- $name := .Name }}
-    {{- with .Identifier }}
-      {{- with T . }}
-        {{- $name = . }}
-      {{- end }}
-    {{- end }}
-    <li>
-      <a
-        {{- range $k, $v := $attrs }}
-          {{- with $v }}
-            {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-          {{- end }}
-        {{- end -}}
-      >{{ $name }}</a>
-      {{- with .Children }}
-        <ul>
-          {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-        </ul>
-      {{- end }}
-    </li>
-  {{- end }}
-{{- end }}
