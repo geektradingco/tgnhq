@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <header>
+    {{ partial "header.html" . }}
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+<!-- Cookie Consent Popup -->
+<div id="cookie-consent-banner" style="display: none; position: fixed; bottom: 0; width: 100%; background: #333; color: #fff; padding: 15px; text-align: center; z-index: 1000;">
+  <p style="margin: 0;">
+    <strong>We Use Cookies:</strong> Tabletop Gaming HQ uses cookies to enhance your experience, analyze site usage, and personalize content. By clicking "Accept All," you consent to our use of cookies. To learn more or customize your preferences, visit our <a href="/privacy" style="color: #ffa500;">Privacy Policy</a>.
+  </p>
+  <div style="margin-top: 10px;">
+    <button id="accept-all-cookies" style="padding: 10px 20px; background: #4caf50; border: none; color: white; cursor: pointer; margin-right: 10px;">Accept All</button>
+    <button id="manage-cookies" style="padding: 10px 20px; background: #ffa500; border: none; color: white; cursor: pointer;">Manage Preferences</button>
+  </div>
+</div>
+
+<script>
+  // Function to display the cookie banner
+  function showCookieBanner() {
+    const cookieConsent = localStorage.getItem('cookieConsent');
+    if (!cookieConsent) {
+      document.getElementById('cookie-consent-banner').style.display = 'block';
+    }
+  }
+
+  // Event listener for "Accept All" button
+  document.getElementById('accept-all-cookies').addEventListener('click', () => {
+    localStorage.setItem('cookieConsent', 'all');
+    document.getElementById('cookie-consent-banner').style.display = 'none';
+  });
+
+  // Event listener for "Manage Preferences" button
+  document.getElementById('manage-cookies').addEventListener('click', () => {
+    alert('Cookie management preferences feature coming soon!');
+    // Here, you can redirect users to a cookie management page or open a modal
+  });
+
+  // Display the cookie banner if consent hasn't been provided
+  window.onload = showCookieBanner;
+</script>  
+</body>
+</html>
