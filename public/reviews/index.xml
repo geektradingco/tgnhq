@@ -8,11 +8,53 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to build your Trench Crusade army</title>
+      <link>http://localhost:1313/reviews/trench-crusade-review/building-your-trench-crusade-army/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/trench-crusade-review/building-your-trench-crusade-army/</guid>
+      <description>Creating an army in Trench Crusade is a strategic and creative process.</description>
+    </item>
+    <item>
+      <title>Introduction to Trench Crusade</title>
+      <link>http://localhost:1313/reviews/trench-crusade-review/introduction-to-trench-crusade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/trench-crusade-review/introduction-to-trench-crusade/</guid>
+      <description>Imagine a world where the very fabric of history has been torn apart by supernatural forces.</description>
+    </item>
+    <item>
       <title>Trench Crusade Community and Resources</title>
       <link>http://localhost:1313/reviews/trench-crusade-review/community-resources-trench-crusade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/reviews/trench-crusade-review/community-resources-trench-crusade/</guid>
       <description>Engaging with the Trench Crusade community enhances your gameplay experience, provide valuable insights, and connects you with fellow enthusiasts.</description>
+    </item>
+    <item>
+      <title>Trench Crusade Game Background</title>
+      <link>http://localhost:1313/reviews/trench-crusade-review/game-background-trench-crusade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/trench-crusade-review/game-background-trench-crusade/</guid>
+      <description>The once serene landscapes are now desolate wastelands, filled with trenches, barbed wire, and the remnants of colossal battles.</description>
+    </item>
+    <item>
+      <title>Trench Crusade Game Background</title>
+      <link>http://localhost:1313/reviews/trench-crusade-review/trench-crusade-game-mechanics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/trench-crusade-review/trench-crusade-game-mechanics/</guid>
+      <description>Trench Crusade combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience.</description>
+    </item>
+    <item>
+      <title>Trench Crusade Miniatures and Modelling</title>
+      <link>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-miniatures-modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-miniatures-modelling/</guid>
+      <description>Finding the right miniatures for your Trench Crusade army is essential. Here are some resources to help you get started.</description>
+    </item>
+    <item>
+      <title>Trench Crusade Strategies and Tactics</title>
+      <link>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-strategies-tactics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-strategies-tactics/</guid>
+      <description>By understanding and applying strategies and tactics you can be better prepared to lead your forces to victory in Trench Crusade</description>
     </item>
   </channel>
 </rss>

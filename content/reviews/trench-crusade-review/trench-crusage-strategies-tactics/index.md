@@ -3,6 +3,7 @@ title = 'Trench Crusade Strategies and Tactics'
 draft = false
 summary = "By understanding and applying strategies and tactics you can be better prepared to lead your forces to victory in Trench Crusade"
 +++
+![trench crusade tabletop wargame review](/images/trench-crusade-wargame.webp)
 In Trench Crusade, **mastering strategies and tactics is key to achieving victory**. Each faction has its unique strengths and weaknesses, and understanding how to leverage them can give you a significant advantage on the battlefield. Here are some general and faction-specific strategies to help you get started: 
 
 ## General Strategies 

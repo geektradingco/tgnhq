@@ -3,6 +3,7 @@ title = 'Trench Crusade Game Background'
 draft = false
 summary = 'The once serene landscapes are now desolate wastelands, filled with trenches, barbed wire, and the remnants of colossal battles.'
 +++
+![trench crusade review](/images/trench-crusade-wargame.webp)
 The story of Trench Crusade **begins during the medieval Crusades, a time of religious zeal and brutal warfare**. In this alternate timeline, a renegade group of Templars, seeking power beyond mortal comprehension, turned their backs on the Almighty and **performed a forbidden ritual**. This reckless act tore open the fabric of reality, unleashing the forces of Hell upon the Earth. As demonic legions spilled forth, humanity's defenders, the angelic hosts of Heaven, descended to oppose them. 
 
 **Fast forward to 1914**, the world is now an endless battlefield where the Great War is not just between nations but between Heaven and Hell, with **humanity caught in the middle**. The once serene landscapes are now desolate wastelands, filled with trenches, barbed wire, and the remnants of colossal battles. 

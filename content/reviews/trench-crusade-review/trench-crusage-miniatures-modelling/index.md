@@ -3,6 +3,7 @@ title = 'Trench Crusade Miniatures and Modelling'
 draft = false
 summary = 'Finding the right miniatures for your Trench Crusade army is essential. Here are some resources to help you get started.'
 +++
+![trench crusade tabletop wargame review](/images/trench-crusade-wargame.webp)
 One of the most exciting aspects of **Trench Crusade** is the opportunity to collect, paint, and customize your own miniatures. The game features a wide array of detailed miniatures, each representing the **diverse characters and units** from the game's factions. 
 
 ## Types of Miniatures 
