@@ -56,32 +56,50 @@
   <h1>Reviews</h1>
   
   
-    <h2><a href="/reviews/trench-crusade-review/building-your-trench-crusade-army/">How to build your Trench Crusade army</a></h2>
-    Creating an army in Trench Crusade is a strategic and creative process.
-  
-    <h2><a href="/reviews/trench-crusade-review/introduction-to-trench-crusade/">Introduction to Trench Crusade</a></h2>
-    Imagine a world where the very fabric of history has been torn apart by supernatural forces.
-  
-    <h2><a href="/reviews/trench-crusade-review/community-resources-trench-crusade/">Trench Crusade Community and Resources</a></h2>
-    Engaging with the Trench Crusade community enhances your gameplay experience, provide valuable insights, and connects you with fellow enthusiasts.
-  
-    <h2><a href="/reviews/trench-crusade-review/game-background-trench-crusade/">Trench Crusade Game Background</a></h2>
-    The once serene landscapes are now desolate wastelands, filled with trenches, barbed wire, and the remnants of colossal battles.
-  
-    <h2><a href="/reviews/trench-crusade-review/trench-crusade-game-mechanics/">Trench Crusade Game Background</a></h2>
-    Trench Crusade combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience.
-  
-    <h2><a href="/reviews/trench-crusade-review/trench-crusage-miniatures-modelling/">Trench Crusade Miniatures and Modelling</a></h2>
-    Finding the right miniatures for your Trench Crusade army is essential. Here are some resources to help you get started.
-  
-    <h2><a href="/reviews/trench-crusade-review/trench-crusage-strategies-tactics/">Trench Crusade Strategies and Tactics</a></h2>
-    By understanding and applying strategies and tactics you can be better prepared to lead your forces to victory in Trench Crusade
+    <h2><a href="/reviews/trench-crusade-review/">All you need to know about Trench Crusade</a></h2>
+    Our world where the very fabric of history has been torn apart by supernatural forces.
   
 
   </main>
   <footer>
     <p>Copyright 2024. All rights reserved.</p>
-
+<p>Links: About Us | Contact | <a href="/privacy/">Privacy Policy</a></p>
+<p>Social Media: <a href="https://www.facebook.com/tabletopgaminghq">Facebook</a> | Twitter | Instagram</p>
   </footer>
+
+<div id="cookie-consent-banner" style="display: none; position: fixed; bottom: 0; width: 100%; background: #333; color: #fff; padding: 15px; text-align: center; z-index: 1000;">
+  <p style="margin: 0;">
+    <strong>We Use Cookies:</strong> Tabletop Gaming HQ uses cookies to enhance your experience, analyze site usage, and personalize content. By clicking "Accept All," you consent to our use of cookies. To learn more or customize your preferences, visit our <a href="/privacy-policy" style="color: #ffa500;">Privacy Policy</a>.
+  </p>
+  <div style="margin-top: 10px;">
+    <button id="accept-all-cookies" style="padding: 10px 20px; background: #4caf50; border: none; color: white; cursor: pointer; margin-right: 10px;">Accept All</button>
+    <button id="manage-cookies" style="padding: 10px 20px; background: #ffa500; border: none; color: white; cursor: pointer;">Manage Preferences</button>
+  </div>
+</div>
+
+<script>
+  
+  function showCookieBanner() {
+    const cookieConsent = localStorage.getItem('cookieConsent');
+    if (!cookieConsent) {
+      document.getElementById('cookie-consent-banner').style.display = 'block';
+    }
+  }
+
+  
+  document.getElementById('accept-all-cookies').addEventListener('click', () => {
+    localStorage.setItem('cookieConsent', 'all');
+    document.getElementById('cookie-consent-banner').style.display = 'none';
+  });
+
+  
+  document.getElementById('manage-cookies').addEventListener('click', () => {
+    alert('Cookie management preferences feature coming soon!');
+    
+  });
+
+  
+  window.onload = showCookieBanner;
+</script>  
 </body>
 </html>
