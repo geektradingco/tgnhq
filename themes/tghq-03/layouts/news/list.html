@@ -1,11 +1,11 @@
 {{ define "main" }}
- <h1>{{ .Title }}</h1>
-   {{ .Content }}
+ <h1>{{- .Title }}</h1>
+   {{- .Content }}
  <div class="containter">
+  {{- range .Pages.ByDate }}
   <div class="row">
-    {{ range .Pages.ByDate }}
-    <div class = "col">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class = "col-sm-12">  
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>{{ .Summary }}
     </div>
     {{ end }}
   </div>
