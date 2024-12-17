@@ -93,8 +93,22 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/building-your-trench-crusade-army/</loc>
+  </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/introduction-to-trench-crusade/</loc>
+  </url><url>
     <loc>http://localhost:1313/reviews/</loc>
   </url><url>
     <loc>http://localhost:1313/submit-news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/community-resources-trench-crusade/</loc>
+  </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/game-background-trench-crusade/</loc>
+  </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/trench-crusade-game-mechanics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-miniatures-modelling/</loc>
+  </url><url>
+    <loc>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-strategies-tactics/</loc>
   </url>
 </urlset>
