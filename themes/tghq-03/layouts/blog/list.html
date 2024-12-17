@@ -1,0 +1,13 @@
+{{ define "main" }}
+ <h1>{{- .Title }}</h1>
+   {{- .Content }}
+ <div class="containter">
+  {{- range .Pages.ByDate }}
+  <div class="row">
+    <div class = "col-sm-12">  
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>{{ .Summary }}
+    </div>
+    {{ end }}
+  </div>
+ </div>
+{{ end }}
