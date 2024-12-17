@@ -21,6 +21,7 @@
 
   gtag('config', 'G-FR4J4S3B8R');
 </script>
+
 </head>
 <body>
   <header>
@@ -56,6 +57,7 @@
     
   <h1>Trench Crusade Miniatures and Modelling</h1>
   <p><img src="/images/trench-crusade-wargame.webp" alt="trench crusade tabletop wargame review">
+<a href="/reviews/trench-crusade-review/">Table of contents</a>
 One of the most exciting aspects of <strong>Trench Crusade</strong> is the opportunity to collect, paint, and customize your own miniatures. The game features a wide array of detailed miniatures, each representing the <strong>diverse characters and units</strong> from the game&rsquo;s factions.</p>
 <h2 id="types-of-miniatures">Types of Miniatures</h2>
 <p><strong>Heaven</strong>: Angelic forces are often depicted with majestic wings, gleaming armor, and divine weapons. These miniatures can range from ethereal seraphim to heavily armored archangels, each exuding a sense of grace and power.</p>
@@ -86,7 +88,43 @@ One of the most exciting aspects of <strong>Trench Crusade</strong> is the oppor
   </main>
   <footer>
     <p>Copyright 2024. All rights reserved.</p>
-
+<p>Links: About Us | Contact | <a href="/privacy/">Privacy Policy</a></p>
+<p>Social Media: <a href="https://www.facebook.com/tabletopgaminghq">Facebook</a> | Twitter | Instagram</p>
   </footer>
+
+<div id="cookie-consent-banner" style="display: none; position: fixed; bottom: 0; width: 100%; background: #333; color: #fff; padding: 15px; text-align: center; z-index: 1000;">
+  <p style="margin: 0;">
+    <strong>We Use Cookies:</strong> Tabletop Gaming HQ uses cookies to enhance your experience, analyze site usage, and personalize content. By clicking "Accept All," you consent to our use of cookies. To learn more or customize your preferences, visit our <a href="/privacy" style="color: #ffa500;">Privacy Policy</a>.
+  </p>
+  <div style="margin-top: 10px;">
+    <button id="accept-all-cookies" style="padding: 10px 20px; background: #4caf50; border: none; color: white; cursor: pointer; margin-right: 10px;">Accept All</button>
+    <button id="manage-cookies" style="padding: 10px 20px; background: #ffa500; border: none; color: white; cursor: pointer;">Manage Preferences</button>
+  </div>
+</div>
+
+<script>
+  
+  function showCookieBanner() {
+    const cookieConsent = localStorage.getItem('cookieConsent');
+    if (!cookieConsent) {
+      document.getElementById('cookie-consent-banner').style.display = 'block';
+    }
+  }
+
+  
+  document.getElementById('accept-all-cookies').addEventListener('click', () => {
+    localStorage.setItem('cookieConsent', 'all');
+    document.getElementById('cookie-consent-banner').style.display = 'none';
+  });
+
+  
+  document.getElementById('manage-cookies').addEventListener('click', () => {
+    alert('Cookie management preferences feature coming soon!');
+    
+  });
+
+  
+  window.onload = showCookieBanner;
+</script>  
 </body>
 </html>

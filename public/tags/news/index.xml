@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>News07</title>
+      <link>http://localhost:1313/news/news07/</link>
+      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
+      <guid>http://localhost:1313/news/news07/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>News02</title>
       <link>http://localhost:1313/news/news02/</link>
       <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
@@ -41,7 +48,7 @@
       <link>http://localhost:1313/news/news01/</link>
       <pubDate>Sun, 15 Dec 2024 15:39:43 +1100</pubDate>
       <guid>http://localhost:1313/news/news01/</guid>
-      <description></description>
+      <description>This is some news.</description>
     </item>
   </channel>
 </rss>

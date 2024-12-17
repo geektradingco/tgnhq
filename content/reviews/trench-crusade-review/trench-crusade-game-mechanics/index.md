@@ -4,6 +4,7 @@ draft = false
 summary = 'Trench Crusade combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience.'
 +++
 ![trench crusade tabletop wargame review](/images/trench-crusade-wargame.webp)
+[Table of contents](/reviews/trench-crusade-review/)
 **Trench Crusade** combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience. Here’s a breakdown of the core mechanics that drive the game: 
 
 ## Core Rules and Objectives 

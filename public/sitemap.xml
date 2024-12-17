@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/corus-belli/</loc>
+    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/games-workshop/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
@@ -14,7 +17,19 @@
     <loc>http://localhost:1313/news/news05/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/news/news06/</loc>
+    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news07/</loc>
+    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/news08/</loc>
+    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/news/news09/</loc>
+    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -33,9 +48,6 @@
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/privateer-press/</loc>
-    <lastmod>2024-12-15T15:40:17+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/news01/</loc>

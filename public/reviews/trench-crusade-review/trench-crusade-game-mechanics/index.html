@@ -21,6 +21,7 @@
 
   gtag('config', 'G-FR4J4S3B8R');
 </script>
+
 </head>
 <body>
   <header>
@@ -56,6 +57,7 @@
     
   <h1>Trench Crusade Game Background</h1>
   <p><img src="/images/trench-crusade-wargame.webp" alt="trench crusade tabletop wargame review">
+<a href="/reviews/trench-crusade-review/">Table of contents</a>
 <strong>Trench Crusade</strong> combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience. Here’s a breakdown of the core mechanics that drive the game:</p>
 <h2 id="core-rules-and-objectives">Core Rules and Objectives</h2>
 <p><strong>Objective</strong>: The primary objective of Trench Crusade is to achieve victory by completing mission-specific goals, which can range from capturing strategic points to annihilating the enemy forces. The game&rsquo;s scenarios often reflect the grim and unpredictable nature of trench warfare, with both strategic planning and adaptability playing crucial roles.</p>
@@ -95,7 +97,43 @@
   </main>
   <footer>
     <p>Copyright 2024. All rights reserved.</p>
-
+<p>Links: About Us | Contact | <a href="/privacy/">Privacy Policy</a></p>
+<p>Social Media: <a href="https://www.facebook.com/tabletopgaminghq">Facebook</a> | Twitter | Instagram</p>
   </footer>
+
+<div id="cookie-consent-banner" style="display: none; position: fixed; bottom: 0; width: 100%; background: #333; color: #fff; padding: 15px; text-align: center; z-index: 1000;">
+  <p style="margin: 0;">
+    <strong>We Use Cookies:</strong> Tabletop Gaming HQ uses cookies to enhance your experience, analyze site usage, and personalize content. By clicking "Accept All," you consent to our use of cookies. To learn more or customize your preferences, visit our <a href="/privacy" style="color: #ffa500;">Privacy Policy</a>.
+  </p>
+  <div style="margin-top: 10px;">
+    <button id="accept-all-cookies" style="padding: 10px 20px; background: #4caf50; border: none; color: white; cursor: pointer; margin-right: 10px;">Accept All</button>
+    <button id="manage-cookies" style="padding: 10px 20px; background: #ffa500; border: none; color: white; cursor: pointer;">Manage Preferences</button>
+  </div>
+</div>
+
+<script>
+  
+  function showCookieBanner() {
+    const cookieConsent = localStorage.getItem('cookieConsent');
+    if (!cookieConsent) {
+      document.getElementById('cookie-consent-banner').style.display = 'block';
+    }
+  }
+
+  
+  document.getElementById('accept-all-cookies').addEventListener('click', () => {
+    localStorage.setItem('cookieConsent', 'all');
+    document.getElementById('cookie-consent-banner').style.display = 'none';
+  });
+
+  
+  document.getElementById('manage-cookies').addEventListener('click', () => {
+    alert('Cookie management preferences feature coming soon!');
+    
+  });
+
+  
+  window.onload = showCookieBanner;
+</script>  
 </body>
 </html>

@@ -4,6 +4,7 @@ draft = false
 summary = 'Engaging with the Trench Crusade community enhances your gameplay experience, provide valuable insights, and connects you with fellow enthusiasts.'
 +++
 ![trench crusade review](/images/trench-crusade-wargame.webp)
+[Table of contents](/reviews/trench-crusade-review/)
 The Trench Crusade community is vibrant and supportive, offering a wealth of resources for both new and experienced players. Engaging with the community can enhance your gameplay experience, provide valuable insights, and connect you with fellow enthusiasts. Here are some key ways to get involved and make the most of available resources: 
 
 ## Online Forums and Communities 
