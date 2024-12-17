@@ -2,10 +2,10 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
-  <h2>LATEST NEWS</h2>
-  {{- partial "newssummary.html" . }}
-  <h2>LATEST REVIEWS</h2>
-  {{- partial "reviewsummary.html" . }} 
+  ## LATEST NEWS
+  {{- partial "summary-news.html" . }}
+  ## LATEST REVEIWS
+  {{- partial "summary-reviews.html" . }}
 
   <ins class="epn-placement" data-config-id="5ab828ae87376a081fab645f"></ins>
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
