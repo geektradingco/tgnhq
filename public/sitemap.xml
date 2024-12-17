@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/corus-belli/</loc>
-    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/games-workshop/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
@@ -17,19 +14,7 @@
     <loc>http://localhost:1313/news/games-workshop/news05/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/news06/</loc>
-    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/news/games-workshop/news07/</loc>
-    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/news/news08/</loc>
-    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/news09/</loc>
-    <lastmod>2024-12-15T15:51:17+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2024-12-15T15:51:17+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -48,6 +33,9 @@
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/privateer-press/</loc>
+    <lastmod>2024-12-15T15:40:17+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2024-12-15T15:40:17+11:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/news01/</loc>
@@ -89,26 +77,10 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/building-your-trench-crusade-army/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/introduction-to-trench-crusade/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
   </url><url>
     <loc>http://localhost:1313/submit-news/</loc>
   </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/community-resources-trench-crusade/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/game-background-trench-crusade/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/trench-crusade-game-mechanics/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-miniatures-modelling/</loc>
-  </url><url>
-    <loc>http://localhost:1313/reviews/trench-crusade-review/trench-crusage-strategies-tactics/</loc>
+    <loc>http://localhost:1313/reviews/</loc>
   </url>
 </urlset>

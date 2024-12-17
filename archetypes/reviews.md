@@ -2,8 +2,8 @@
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = false
-tags = ['news']
+tags = ['reviews']
 company =''
 summary = ' '
-image = "images/news.webp"
+image = "images/reviews.webp"
 +++

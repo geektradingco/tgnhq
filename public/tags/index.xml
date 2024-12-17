@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>Corus Belli</title>
-      <link>http://localhost:1313/tags/corus-belli/</link>
-      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/tags/corus-belli/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Games Workshop</title>
       <link>http://localhost:1313/tags/games-workshop/</link>
       <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
@@ -37,13 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Review</title>
-      <link>http://localhost:1313/tags/review/</link>
-      <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/tags/review/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Anvil Workshop</title>
       <link>http://localhost:1313/tags/anvil-workshop/</link>
       <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
@@ -55,6 +41,13 @@
       <link>http://localhost:1313/tags/privateer-press/</link>
       <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
       <guid>http://localhost:1313/tags/privateer-press/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>http://localhost:1313/tags/review/</link>
+      <pubDate>Sun, 15 Dec 2024 15:40:17 +1100</pubDate>
+      <guid>http://localhost:1313/tags/review/</guid>
       <description></description>
     </item>
     <item>
