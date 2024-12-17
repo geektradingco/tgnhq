@@ -1,8 +1,19 @@
-<div class = "col-sm-2">
-    {{ $image := resources.Get .Params.image }}
-    {{ if $image }}
-    <a href="{{ .RelPermalink }}"><img src="{{ $image.Permalink }}" alt="{{ .Title }}" height="75"></a>
-    {{ else }}
-     <p>Image not found: {{ .Params.image }}</p>
-    {{ end }}
-   </div>
+<div class = "container">
+    <div class = "row">
+        {{ $newsPages := where .Site.RegularPages "Params.tags" "intersect" (slice "news") }}
+        {{ $sortedNewsPages := sort $newsPages "Date" "desc" }}
+        {{ $latestNewsPages := first 10 $sortedNewsPages }}
+        {{ range $latestNewsPages }}
+        <div class = "col" style="margin: 10px;">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+            {{ $image := resources.Get .Params.image }}
+            {{ if $image }}
+            <a href="{{ .RelPermalink }}"><img src="{{ $image.Permalink }}" alt="{{ .Title }}" height="75"></a>
+            {{ else }}
+            <p>Image not found: {{ .Params.image }}</p>
+            {{ end }}
+            <p><small>{{ .Date.Format "02/01/2006" }}</small></p>
+        </div>
+        {{ end }}
+    </div>
+</div>

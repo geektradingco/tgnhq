@@ -1,4 +1,7 @@
 {{ define "main" }}
   {{ .Content }}
-
+  <h2>LATEST NEWS</h2>
+  {{- partial "newssummary.html" . }}
+  <h2>LATEST REVIEWS</h2>
+  {{- partial "reviewsummary.html" . }} 
 {{ end }}

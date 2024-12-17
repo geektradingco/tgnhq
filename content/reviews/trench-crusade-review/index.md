@@ -2,7 +2,10 @@
 title = 'All you need to know about Trench Crusade'
 draft = false
 summary = 'Our world where the very fabric of history has been torn apart by supernatural forces.'
+tags = ['review']
+image = "images/reviews.webp"
 +++
+![trench crusade review](/images/trench-crusade-wargame.webp)
 ### [Introduction](/reviews/trench-crusade-review/introduction-to-trench-crusade)
 - Brief overview of the game
 - Setting and theme

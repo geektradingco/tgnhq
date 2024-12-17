@@ -4,7 +4,7 @@ draft = false
 summary = 'Trench Crusade combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience.'
 +++
 ![trench crusade tabletop wargame review](/images/trench-crusade-wargame.webp)
-[Table of contents](/reviews/trench-crusade-review/)
+
 **Trench Crusade** combines traditional tabletop wargaming elements with unique supernatural abilities, creating a dynamic and engaging gameplay experience. Here’s a breakdown of the core mechanics that drive the game: 
 
 ## Core Rules and Objectives 
@@ -37,3 +37,5 @@ Victory in Trench Crusade is determined by achieving the objectives outlined in 
 Players must balance offensive and defensive strategies, leveraging their faction's strengths and mitigating their weaknesses to achieve victory. 
 
 This section provides a broad overview of the core mechanics in **Trench Crusade**. 
+
+[Table of contents](/reviews/trench-crusade-review/)

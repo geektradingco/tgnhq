@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News05</title>
-      <link>http://localhost:1313/news/news05/</link>
+      <link>http://localhost:1313/news/games-workshop/news05/</link>
       <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news05/</guid>
+      <guid>http://localhost:1313/news/games-workshop/news05/</guid>
       <description></description>
     </item>
     <item>
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>News07</title>
-      <link>http://localhost:1313/news/news07/</link>
+      <link>http://localhost:1313/news/games-workshop/news07/</link>
       <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
-      <guid>http://localhost:1313/news/news07/</guid>
+      <guid>http://localhost:1313/news/games-workshop/news07/</guid>
       <description></description>
     </item>
     <item>
@@ -37,7 +37,7 @@
       <description></description>
     </item>
     <item>
-      <title>Newsington News09</title>
+      <title>News09</title>
       <link>http://localhost:1313/news/news09/</link>
       <pubDate>Sun, 15 Dec 2024 15:51:17 +1100</pubDate>
       <guid>http://localhost:1313/news/news09/</guid>

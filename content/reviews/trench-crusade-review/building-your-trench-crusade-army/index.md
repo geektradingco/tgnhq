@@ -4,7 +4,6 @@ draft = false
 summary = 'Creating an army in Trench Crusade is a strategic and creative process.'
 +++
 ![trench crusade review](/images/trench-crusade-wargame.webp)
-[Table of contents](/reviews/trench-crusade-review/)
 
 Creating an army in Trench Crusade is a strategic and creative process. Each faction offers a distinct playstyle and unique units, allowing players to **tailor their forces to their preferred tactics and aesthetics**. Here’s a guide to help you build a formidable army: 
 
@@ -29,3 +28,5 @@ Building a balanced army involves considering the strengths and weaknesses of yo
 - Flexibility: Be prepared to **adapt your strategy based on the unfolding battle**. A balanced army can switch roles and adapt to changing circumstances more effectively than a specialized force. 
 
 Building your army is a rewarding aspect of Trench Crusade, allowing you to express your creativity and strategic thinking. With **careful planning and a good understanding of your faction and units**, you'll be well-prepared to lead your forces to victory. 
+
+[Table of contents](/reviews/trench-crusade-review/)
