@@ -3,7 +3,7 @@
    {{ .Content }}
  <div class="containter">
   <div class="row">
-    {{ range .Pages }}
+    {{ range .Pages.ByDate }}
     <div class = "col">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </div>
