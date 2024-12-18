@@ -3,7 +3,8 @@ languageCode = 'en-us'
 title = 'Tabletop Gaming HQ'
 theme = 'tghq-03'
 [params]
-    description = "Stay updated on tabletop gaming news with Tabletop Gaming HQ."
+  description = "Stay updated on tabletop gaming news with Tabletop Gaming HQ."
+  logo = "images/tabletop-gaming-hq.webp"
 [services]
   [services.disqus]
     shortname = 'warpainter'
