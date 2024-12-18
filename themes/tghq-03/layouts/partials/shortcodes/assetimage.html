@@ -1,0 +1,4 @@
+{{ $image := resources.Get .Get "src" }}
+{{ with $image }}
+  <img src="{{ .RelPermalink }}" alt="{{ .Get "alt" }}" style="max-width: 100%;">
+{{ end }}
