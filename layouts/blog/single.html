@@ -1,6 +1,7 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  {{ template "_internal/disqus.html" . }}
   <strong>Recent NEWS:</strong>
   {{ partial "summary-news.html" .}}
   <ins class="epn-placement" data-config-id="5ab828ae87376a081fab645f"></ins>
